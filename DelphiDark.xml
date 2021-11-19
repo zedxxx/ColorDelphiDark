@@ -6,7 +6,7 @@
         <Item1 Value="Delphi Dark"/>
       </Names>
       <Globals Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <ahaBracketMatch Background="clAqua" Foreground="clBlack" FrameColor="13421782"/>
           <ahaCodeFoldingTree Background="3288877" Foreground="16776954"/>
           <ahaDefault Background="3288877" Foreground="16776954"/>
@@ -36,10 +36,10 @@
           <ahaTextBlock Background="16755327" Foreground="clBlack"/>
           <ahaUnknownBreakpoint Background="5921370" Foreground="13427438"/>
           <ahaWordGroup FrameColor="clRed"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </Globals>
       <LangObjectPascal Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Assembler Background="3288877" Foreground="13689840"/>
           <Comment Background="3288877" Foreground="8710076"/>
           <Directive Background="3288877" Foreground="16764262"/>
@@ -47,19 +47,19 @@
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangObjectPascal>
       <LangLazarus_Form_definition Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Key Background="3288877" Foreground="12378367" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangLazarus_Form_definition>
       <LangXML_document Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Attribute_Name Background="3288877" Foreground="clWhite"/>
           <Attribute_Value Background="3288877" Foreground="clWhite" Style="fsBold"/>
           <CDATA_Section Background="3288877" Foreground="16776954" Style="fsItalic"/>
@@ -72,10 +72,10 @@
           <Processing_Instruction Background="3288877" Foreground="12378367" Style="fsBold"/>
           <Symbol Background="3288877" Foreground="15792639"/>
           <Text Background="3288877" Foreground="16755327" Style="fsBold"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangXML_document>
       <LangHTML_document Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Asp Background="clYellow" Foreground="clBlack"/>
           <Comment Foreground="clBlue" Style="fsBold"/>
           <Escape_ampersand Foreground="clLime" Style="fsBold"/>
@@ -84,10 +84,10 @@
           <Symbol Foreground="clRed"/>
           <Unknown_word Foreground="clRed" Style="fsBold"/>
           <Value Foreground="16744448"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangHTML_document>
       <LangC__ Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Assembler Background="3288877" Foreground="13689840"/>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
@@ -96,10 +96,10 @@
           <Space Background="3288877" Foreground="16776954"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangC__>
       <LangPerl Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Pragma Background="3288877" Foreground="16764262" Style="fsBold"/>
@@ -108,10 +108,10 @@
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
           <Variable Background="3288877" Foreground="clRed" Style="fsBold"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangPerl>
       <LangJava Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Documentation Background="3288877" Foreground="15792639" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
@@ -119,20 +119,20 @@
           <Space Background="3288877" Foreground="16776954"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangJava>
       <LangUNIX_Shell_Script Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
           <Variable Background="3288877" Foreground="clRed"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangUNIX_Shell_Script>
       <LangPython Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Documentation Background="3288877" Foreground="15792639" Style="fsBold"/>
           <Float Background="3288877" Foreground="11173887"/>
@@ -145,19 +145,19 @@
           <Symbol Background="3288877" Foreground="15792639"/>
           <SyntaxError Background="3288877" Foreground="clRed"/>
           <System_functions_and_variables Background="3288877" Foreground="15792639" Style="fsBold"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangPython>
       <LangPHP Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangPHP>
       <LangSQL Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Data_type Background="3288877" Foreground="15792639" Style="fsBold"/>
           <Default_packages Background="3288877" Foreground="11173887" Style="fsBold"/>
@@ -169,20 +169,20 @@
           <SQL_Plus_command Background="3288877" Foreground="clRed" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangSQL>
       <LangCascading_style_sheets Version="13"/>
       <LangJavascript Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
           <Symbol Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangJavascript>
       <LangDiff_File Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Diff_Added_line Background="clYellow" Foreground="clNavy"/>
           <Diff_Changed_Line Background="clBlue" Foreground="clNavy"/>
           <Diff_Chunk_Line_Counts Background="3288877" Foreground="11173887" Style="fsBold"/>
@@ -193,21 +193,21 @@
           <Diff_Original_File Background="3288877" Foreground="clWhite" Style="fsBold"/>
           <Diff_Removed_Line Background="clRed" Foreground="clNavy"/>
           <Unknown_word Background="5921370" Foreground="13427438" Style="fsItalic"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangDiff_File>
       <LangMS_DOS_batch_language Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsItalic"/>
           <Key Background="3288877" Foreground="12378367" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Variable Background="3288877" Foreground="15792639"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangMS_DOS_batch_language>
       <LangINI_file Version="13">
-        <SchemeDelphiDark>
+        <SchemeDelphi_Dark>
           <Comment Background="3288877" Foreground="8710076" Style="fsItalic"/>
           <Section Background="3288877" Foreground="12378367" Style="fsBold"/>
-        </SchemeDelphiDark>
+        </SchemeDelphi_Dark>
       </LangINI_file>
       <Langpo_language_files Version="13"/>
       <LangPike Version="13"/>
