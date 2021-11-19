@@ -18,7 +18,7 @@
           <ahaGutter Background="3288877" Foreground="16776954"/>
           <ahaGutterSeparator Background="3288877" Foreground="16776954"/>
           <ahaHighlightAll Background="16755327" Foreground="clBlack"/>
-          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaHighlightWord Background="8445439" Foreground="clBlack" FrameColor="2256296"/>
           <ahaIncrementalSearch Background="16755327" Foreground="clBlack"/>
           <ahaInvalidBreakpoint Background="5921370" Foreground="13427438"/>
           <ahaLineHighlight Background="clBlack"/>
