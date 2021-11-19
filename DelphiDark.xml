@@ -7,7 +7,7 @@
       </Names>
       <Globals Version="13">
         <SchemeDelphiDark>
-          <ahaBracketMatch Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua" Foreground="clBlack" FrameColor="13421782"/>
           <ahaCodeFoldingTree Background="3288877" Foreground="16776954"/>
           <ahaDefault Background="3288877" Foreground="16776954"/>
           <ahaDisabledBreakpoint Background="5921370" Foreground="13427438"/>
