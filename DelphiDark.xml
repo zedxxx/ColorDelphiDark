@@ -41,8 +41,8 @@
       <LangObjectPascal Version="13">
         <SchemeDelphiDark>
           <Assembler Background="3288877" Foreground="13689840"/>
-          <Comment Background="3288877" Foreground="8710076" Style="fsBold"/>
-          <Directive Background="3288877" Foreground="16764262" Style="fsBold"/>
+          <Comment Background="3288877" Foreground="8710076"/>
+          <Directive Background="3288877" Foreground="16764262"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
