@@ -45,6 +45,12 @@ begin
   {$REGION 'Region Test'}
   // region
   {$ENDREGION}
+
+  {$IFDEF DEBUG}
+  X := X + 42;
+  {$ELSE}
+  X := X + 24;
+  {$ENDIF}
 end;
 
 var
