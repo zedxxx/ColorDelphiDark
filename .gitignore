@@ -3,3 +3,5 @@
 *.dsk
 *.identcache
 *.lps
+/CodeExample/__history/*
+/CodeExample/backup/*
