@@ -1,4 +1,7 @@
-Dark color scheme for Lazarus which looks like modern Delphi dark scheme with some improvements from CnPack.
+Two Dark color schemes for Lazarus that look like modern Delphi Dark scheme:
+
+- `ColorDelphiDark.xml` - original Delphi Dark theme;
+- `ColorDelphiDarkMod.xml` - Delphi Dark theme with some color changes from CnPack (brackets color, word highlight, margin color).
 
 ![Color scheme preview](ScreenShots/Image_1.png)
 
