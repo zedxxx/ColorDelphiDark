@@ -56,7 +56,7 @@
           <Assembler Background="3288877" Foreground="13689840"/>
           <Comment Background="3288877" Foreground="8710076"/>
           <Directive Background="3288877" Foreground="16764262"/>
-          <Modifier Style="fsBold"/>
+          <Modifier Foreground="12378367" Style="fsBold"/>
           <Number Background="3288877" Foreground="11173887"/>
           <Reserved_word Background="3288877" Foreground="12378367" Style="fsBold"/>
           <String Background="3288877" Foreground="16755327"/>
