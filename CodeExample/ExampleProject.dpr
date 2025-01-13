@@ -6,11 +6,11 @@ uses
   SysUtils;
 
 type
-  TExampleCalss = class
+  TExampleCalss = class(TObject)
   private
     Caption: string;
   public
-    procedure Test(Sender: TObject);
+    procedure Test(Sender: TObject); inline;
   end;
 
 { TExampleCalss }
